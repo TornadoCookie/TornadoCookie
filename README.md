@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @TornadoCookie
-- 👀 I’m interested in disk management and cli utilities
 - 🌱 I’m currently learning C, Lua, maybe a little C++, simple version control
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me: helix.graziani@hotmail.com
